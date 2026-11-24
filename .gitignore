@@ -1,0 +1,22 @@
+# Downloaded model (fetched automatically on first run)
+models/
+
+# Session output - may describe real students, never commit
+reports/
+*.mp4
+*.avi
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local test footage (third-party videos, not ours to publish)
+demo/
